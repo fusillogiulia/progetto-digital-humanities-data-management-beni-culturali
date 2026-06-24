@@ -12,4 +12,4 @@ I dati in output verranno conservati nella repository Github e Zenodo.
 
 Credits: Giulia Fusillo
 
-Licenza: Creative Commons Legal Code CC0 1.0 Universal
+Licenza: Creative Commons Legal Code CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/deed.en
