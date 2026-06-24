@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/da
 
 I dati verranno lavorati su Google Colab.
 I dati in output verranno conservati nella repository Github e Zenodo.
+
+Creative Commons Legal Code CC0 1.0 Universal
